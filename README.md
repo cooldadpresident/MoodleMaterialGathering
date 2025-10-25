@@ -1,4 +1,3 @@
-Of course. Here is a comprehensive `README.md` file for the script. You can save this text directly into a file named `README.md` in the same folder as your script.
 
 ---
 
